@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @AlfathCikal, 16 yeard old from Indonesia
 - 👀 I’m interested in Ai/ml
 - 🌱 I’m currently learning Python 
+- ofcourse i can code in html css and javascript
 
 
 <!---
