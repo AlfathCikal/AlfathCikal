@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AlfathCikal, 16 yeard old from Indonesia
-- 👀 I’m interested in Ai/ml
-- 🌱 I’m currently learning Python 
-- ofcourse i can code in html css and javascript
+- 👋 Hi, I’m @AlfathCikal, 17 yeard old from Indonesia
+- 👀 I’m interested in Computer Science
+- 🌱 I’m currently focussed on studying at school
+- I hope i can study in University Collage London
 
 
 <!---
