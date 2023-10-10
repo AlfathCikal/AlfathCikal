@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlfathCikal, a young man from Indonesia
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently focussed on studying for my collage text year
-- I hope i can study in University Collage London
+- I hope i can study at University of Edinburgh
 
 
 <!---
